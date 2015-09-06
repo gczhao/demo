@@ -1,2 +1,3 @@
 check feature in first commit
 more feature commit
+new feature
